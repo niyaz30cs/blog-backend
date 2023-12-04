@@ -1,5 +1,6 @@
 import React from 'react'
 import "../Home.css"
+import "../Tab.css"
 import LeftSide from '../HomeComponent/HeadPart/LeftSide'
 import RightSideTop from '../HomeComponent/HeadPart/RightSideTop'
 import RightSideButtom from '../HomeComponent/HeadPart/RightSideButtom'

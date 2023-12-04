@@ -6,7 +6,7 @@ function TheLatestFood() {
     const[data,setData]=useState([])
 
     useEffect(()=>{
-      axios.get("http://localhost:5000/api/blog")
+      axios.get("https://backend-api-rg16.onrender.com/api/blog")
       .then((res)=>{
         setData(res.data)
       })

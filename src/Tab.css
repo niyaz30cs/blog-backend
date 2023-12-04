@@ -1,0 +1,125 @@
+@media screen and (max-width: 980px){
+    .AllTheLatest
+    {
+        display: flex;
+        flex-wrap: wrap;
+    } 
+    .latestImage
+    {
+        width: 367px;
+    }
+    .latestContent {
+        width: 350px;
+        height: 400px;
+    }
+    .ArticleTop
+    {
+        flex-direction: column-reverse;
+    }
+    .Advertise
+    {    width: 500px;
+        height: 700px;
+        margin-top: 85px;
+        bottom: 60px;
+        left: 150px;
+    }
+    .video {
+        width: 500px;
+        height: 700px;
+    }
+    .singleImage 
+    {
+        width: 745px;
+        height: 450px;
+        /* margin: 10px; */
+    }
+    .single
+    {
+        margin-left: 10px;
+    }
+    .articleImage {
+        width: 450px;
+        height: 300px;
+    }
+    .extraImage {
+        width: 746px;
+    }
+    .MainLatestStory
+    {
+        flex-wrap: wrap;
+    }
+    .homeTopPostImg {
+        width: 350px;
+        height: 250px;
+    }
+    .box1
+    {
+        width: 430px;
+        height: 370px;
+    }
+    .homeImage1 {
+        width: 430px;
+        height: 370px;
+        margin-left: 5px;
+    }
+    .setValue1 {
+        display: none;
+        bottom: 0px;
+        width: 400px;
+        color: red;
+    }
+    .box2,.box3
+    {
+        width: 317px;
+        height: 180px;
+    }
+    .homeImage2 {
+        width: 317px;
+        height: 180px;
+    }
+    .setValue2
+    {
+        display: none;
+    }
+    .viewbothSide
+    {
+        flex-direction: column;
+    }
+    .mixPart2
+    {
+        justify-content: flex-start;
+    }
+    .photo2 {
+        width: 350px;
+    }
+    .content2 {
+        width: 360px;
+    }
+    .AllTheLatest2
+    {
+        flex-wrap: wrap;
+    }
+    .detailsImage {
+        width: 740px;
+    }
+    hr {
+        display: none;
+    }
+    .details
+    {
+        padding: 10px;
+    }
+    .boxShadow
+    {
+        padding: 0px;
+    }
+    .threeBtn
+    {
+        width: 300px;
+        justify-content: center;
+    }
+    .bottomClap {
+        width: 300px;
+        margin-left: 10px;
+    }
+}
